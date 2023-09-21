@@ -1,0 +1,10 @@
+## Library
+/plugins
+/3rdparty/*
+!/3rdparty/custom
+/scripting
+**/*.bak
+
+## Project
+*/bom
+*-backups
